@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-20 at 7 43 38 PM (2)" src="https://github.com/user-attachments/assets/590ad715-a5c8-4837-8c8f-4984cdd39e1d" /># EX 6 Design a compact consumer product by creating a detailed 3D solid model that balances strength, weight, and aesthetics; then develop a complete assembly with proper constraints and clearances to ensure functional fit; perform simulations to evaluate structural integrity and durability under real-world operating conditions; finally, prepare the model for prototyping using suitable manufacturing methods and document the entire process and improvements for presentation.
+# EX 6 Design a compact consumer product by creating a detailed 3D solid model that balances strength, weight, and aesthetics; then develop a complete assembly with proper constraints and clearances to ensure functional fit; perform simulations to evaluate structural integrity and durability under real-world operating conditions; finally, prepare the model for prototyping using suitable manufacturing methods and document the entire process and improvements for presentation.
 
 ## NAME: SAKTHIVEL.K 
 ## REGISTER NO: 212223080047
@@ -16,7 +16,8 @@ Focus was given to maintaining dimensional accuracy, smooth motion relationship,
 
 ## 3D MODELS:
 
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-20 at 7 43 38 PM (2)" src="https://github.com/user-attachments/assets/6cdf2a2a-264d-4175-8a05-98814bc9b7aa" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-20 at 7 43 38 PM (2)" src="https://github.com/user-attachments/assets/9136959a-2efb-48ef-ba2b-be981c95ae4f" />
+
 
 
 
